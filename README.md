@@ -13,7 +13,7 @@
 
 ## Contributors
 
-Team Lead|Web Developer|Web Developer|Web Developer|Web Developer|UX Designer|UX Designer|
+Engineering Lead|UX Engineer|Software Engineer|Software Engineer|Software Engineer|UX Designer|UX Designer|
 :-:|:-:|:-:|:-:|:-:|:-:|:-:|
 [Cecil John Tantay](https://github.com/cjbt)|[Javontay McElroy](https://github.com/javontaymcelroy)|[Bradley Ball](https://github.com/cacheup)|[Michael VanSleen](https://github.com/mansleen)|[Ian Belknap](https://github.com/ian84be)|[Landon Bassett](https://github.com/)|[Zeke Kooyer](https://github.com/) |
 [<img src="https://avatars3.githubusercontent.com/u/8962594?s=460&v=4" width = "200" />](https://github.com/cjbt)|[<img src="https://avatars1.githubusercontent.com/u/46494741?s=460&v=4" width = "200" />](https://github.com/javontaymcelroy)|[<img src="https://avatars0.githubusercontent.com/u/42074251?s=460&v=4" width = "200" />](https://github.com/cacheup)|[<img src="https://avatars2.githubusercontent.com/u/40153979?s=460&v=4" width = "200" />](https://github.com/mansleen)|[<img src="https://avatars1.githubusercontent.com/u/45476409?s=460&v=4" width = "200" />](https://github.com/ian84be)|[<img src="https://ca.slack-edge.com/T4JUEB3ME-UHCND1C65-82b229c22c1d-512" width = "200" />](https://github.com/) | [<img src="https://ca.slack-edge.com/T4JUEB3ME-UHA92EA9Y-b172485c2901-512" width = "200" />](https://github.com/) |
